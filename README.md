@@ -56,7 +56,7 @@ export const myStory = {
 };
 ```
 
-#### Setting up permissions for access
+## Setting up permissions for access
 
 ### 1. Obtaining Access Token
 Go to the home page in figma and click your account icon in the top left. In the dropdown select ```Settings```. Within the setteings menu, scroll down and you should see a section titled ```Personal Access Token```. Within this section, click the link ```Generate New Token```. <br>
