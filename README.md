@@ -67,6 +67,20 @@ Go to the home page in figma and click your account icon in the top left. In the
 Create a ```.env``` file within your storybook directory, assign the token to a variable i.e ```STORYBOOK_FIGMA_ACCESS_TOKEN = figd_abcdefghijklmnopqrstuv1234567890```. 
 #### b. Link token within the story
 add ```accessToken: process.env.STORYBOOK_FIGMA_ACCESS_TOKEN``` under the ```url`` link to the figma selection. Your file should look like this. 
+```js
+const meta = {
+  title: 'Example/Button',
+  component: Button,
+  parameters: {
+    // Optional parameter to center the component in the Canvas. More info: https://storybook.js.org/docs/configure/story-layout
+    layout: 'centered',
+  design: {
+     type: "figspec",
+     url: "https://www.figma.com/file/JSBkHssvnSRXqFsKhXtNZS/Component-Library?type=design&node-id=164-420&mode=dev",
+     accessToken: process.env.STORYBOOK_FIGMA_ACCESS_TOKEN
+    },
+  },
+```
 ![Screenshot 2024-04-24 at 9 22 55 AM](https://github.com/nathanielmcdowell/notes1/assets/142334567/a015d6cc-099f-4e50-88fb-456277cff2cb)
 
 
