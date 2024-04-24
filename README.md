@@ -33,9 +33,9 @@ export default {
 ### 1. Copy link to page, component, or variant
 
   #### Linking to components and variants. 
-      Navigate to the desired selection and right click. Naviagate to ```Copy/Paste as``` -> ```Copy link to selection```. 
+  Navigate to the desired selection and right click. Naviagate to ```Copy/Paste as``` -> ```Copy link to selection```. 
   #### Linking pages 
-      Copy the link from the search bar. 
+  Copy the link from the search bar. 
 
 ### 3. Add it to story!
 
