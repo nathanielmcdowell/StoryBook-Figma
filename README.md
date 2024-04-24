@@ -32,12 +32,13 @@ export default {
 
 ### 1. Copy link to page, component, or variant
 
-  #### Linking to components and variants. 
-  Navigate to the desired selection and right click. Naviagate to ```Copy/Paste as``` -> ```Copy link to selection```. 
-  #### Linking pages 
+  #### a. Linking to components and variants. 
+  Navigate to the desired selection and right click, select option ```Copy/Paste as``` -> ```Copy link to selection```. 
+  ![Screenshot 2024-04-24 at 9 22 23 AM](https://github.com/nathanielmcdowell/notes1/assets/142334567/ef75ee79-29d7-46b6-b0d0-d1ea72d0c0f1)
+  #### b. Linking pages 
   Copy the link from the search bar. 
-
-### 3. Add it to story!
+  
+### 2. Add it to story!
 
 ```js
 export default {
