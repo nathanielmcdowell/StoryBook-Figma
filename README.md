@@ -2,14 +2,6 @@
 
   This guide will demonstrate how to link figma **components** into storybook stories, allowing for easy cross referencing between designs and development.
 
-
-
-## @storybook/addon-designs
-
-A [Storybook](https://github.com/storybooks/storybook) addon that embed Figma or websites in the addon panel for better design-development workflow.
-
-- [Docs & Demo](https://storybookjs.github.io/addon-designs)
-
 ## Requirements
 
 - Storybook@>=8.0.0 (Version 7 of this addon supports Storybook 7)
