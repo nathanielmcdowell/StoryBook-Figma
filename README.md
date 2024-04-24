@@ -81,7 +81,6 @@ const meta = {
     },
   },
 ```
-![Screenshot 2024-04-24 at 9 22 55 AM](https://github.com/nathanielmcdowell/notes1/assets/142334567/a015d6cc-099f-4e50-88fb-456277cff2cb)
 
 
 
