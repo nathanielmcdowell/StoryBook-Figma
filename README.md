@@ -59,7 +59,7 @@ export const myStory = {
 #### Setting up permissions for access
 
 ### 1. Obtaining Access Token
-Go to the home page in figma and click your account icon in the top left. In the dropdown select ```Settings```. Within the setteings menu, scroll down and you should see a section titled ```Personal Access Token```. Within this section, click the link ```Generate New Token```. 
+Go to the home page in figma and click your account icon in the top left. In the dropdown select ```Settings```. Within the setteings menu, scroll down and you should see a section titled ```Personal Access Token```. Within this section, click the link ```Generate New Token```. <br>
 ![Screenshot 2024-04-24 at 10 27 33 AM](https://github.com/nathanielmcdowell/notes1/assets/142334567/d60a0999-6982-4762-a7e7-d3dc78be3d7c)![Screenshot 2024-04-24 at 9 21 49 AM](https://github.com/nathanielmcdowell/notes1/assets/142334567/5952d28a-0d9a-4780-b609-c1fd37d6109a)
 
 ### 2. Embedding Access
