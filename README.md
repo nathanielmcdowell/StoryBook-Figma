@@ -8,7 +8,7 @@
 
 This addon should work well with any framework. If you find that the addon does not work, please open an issue.
 
-## Getting started
+## Setting up Storybook
 
 ### 1. Install
 
@@ -27,6 +27,15 @@ export default {
   addons: ["@storybook/addon-designs"],
 };
 ```
+
+## Linking Figma Components
+
+### 1. Copy link to page, component, or variant
+
+  #### Linking to components and variants. 
+      Navigate to the desired selection and right click. Naviagate to ```Copy/Paste as``` -> ```Copy link to selection```. 
+  #### Linking pages 
+      Copy the link from the search bar. 
 
 ### 3. Add it to story!
 
